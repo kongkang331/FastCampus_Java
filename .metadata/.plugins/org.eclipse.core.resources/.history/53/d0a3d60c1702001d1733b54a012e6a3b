@@ -1,0 +1,12 @@
+package ch19;
+
+public class Car {
+
+	private static int serialNUm = 1000;
+	private int carNum;
+	
+	public static int getCarNumber() {
+		return carNumber;
+	}
+	
+}

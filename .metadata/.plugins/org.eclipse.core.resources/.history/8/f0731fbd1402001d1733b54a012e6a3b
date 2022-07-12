@@ -1,0 +1,18 @@
+package ch19;
+
+public class CarFactory {
+
+	private static CarFactory instance = new CarFactory();
+	
+	private CarFactory() {
+		
+	}
+	
+	public static CarFactory getInstance() {
+		if (instancw == null) {
+			instance = new CarFactory();
+		}
+		return instance;
+	}
+	
+}
