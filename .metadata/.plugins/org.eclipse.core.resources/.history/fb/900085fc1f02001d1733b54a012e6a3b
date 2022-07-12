@@ -1,0 +1,24 @@
+package ch21;
+
+public class Book {
+
+	private String title;
+	private String author;
+	
+	public String getTitle() {
+		return title;
+	}
+	
+	public String setTitle() {
+		this.title = title;
+	}
+	
+	public String getAuthor() {
+		return author;
+	}
+	
+	public String setAuthor() {
+		this.author = author;
+	}
+	
+}
