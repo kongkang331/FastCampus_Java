@@ -1,0 +1,22 @@
+package ch14;
+
+public class Subway {
+
+	String lineColor;
+	int passengerCount;
+	int money;
+	
+	public Subway(String lineColor) {
+		this.lineColor = lineColor;
+	}
+	
+	public void take(int money) {
+		this.money += money;
+		passengerCount++;
+	}
+	
+	public void showSubwayInfo() {
+		System.out.println(lineColor + " 지하철을 타면서 ")
+	}
+	
+}

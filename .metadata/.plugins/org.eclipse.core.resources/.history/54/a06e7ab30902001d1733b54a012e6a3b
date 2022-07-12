@@ -1,0 +1,8 @@
+package ch14;
+
+public class TakeTransTest {
+
+	public static void main(String[] args) {
+		
+	}
+}
