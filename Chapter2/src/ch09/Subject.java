@@ -5,5 +5,4 @@ public class Subject {
 	String subjectName;
 	int score;
 	int jubjectID;
-	
 }
