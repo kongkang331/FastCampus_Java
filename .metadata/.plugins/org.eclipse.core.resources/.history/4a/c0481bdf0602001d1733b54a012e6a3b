@@ -1,0 +1,18 @@
+package ch12;
+
+public class Person {
+
+	String name;
+	int age;
+	
+	public Person() {
+		// this 인스턴스 사용하기 이전에 다른 건 쓸 수 없음 
+		this("no name", 1);
+		// 이 이후에 쓰는 건 가능 
+	}
+	
+	public Person(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+}
