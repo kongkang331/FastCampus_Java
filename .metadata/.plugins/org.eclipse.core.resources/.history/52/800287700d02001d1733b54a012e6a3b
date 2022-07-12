@@ -1,0 +1,20 @@
+package ch16;
+
+public class EmployeeTest {
+
+	public static void main(String[] args) {
+		
+		Employee employeeLee = new Employee();
+		employeeLee.setEmployeeName("이순신");
+		System.out.println(employeeLee.serialNum);
+		
+		Employee employeeKim = new Employee();
+		employeeKim.setEmployeeName("김유신");
+		employeeKim.serialNum++;
+		System.out.println(employeeLee.serialNum); // serialNum == 1001
+		System.out.println(employeeKim.serialNum); // serialNum == 1001
+		// 두 개의 인스턴스(serialNum)가 하나의 메모리 주소를 공유해서 생긴 일 
+		
+	}
+	
+}
