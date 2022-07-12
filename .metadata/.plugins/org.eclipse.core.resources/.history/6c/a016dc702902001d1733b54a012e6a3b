@@ -1,0 +1,11 @@
+package ch24;
+
+public class Student {
+
+	int studentId;
+	String studentName;
+	
+	public Student(int studentId, String studentName) {
+		
+	}
+}

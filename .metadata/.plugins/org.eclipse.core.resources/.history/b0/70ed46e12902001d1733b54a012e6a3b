@@ -1,0 +1,9 @@
+package ch24;
+
+public class Subject {
+
+	String subjectName;
+	int score;
+	int count;
+	
+}

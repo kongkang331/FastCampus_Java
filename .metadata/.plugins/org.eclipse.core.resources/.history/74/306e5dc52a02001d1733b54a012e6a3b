@@ -1,0 +1,26 @@
+package ch24;
+
+import java.util.ArrayList;
+
+public class Student {
+
+	int studentId;
+	String studentName;
+	ArrayList<Subject> subjectList;
+	
+	public Student(int studentId, String studentName) {
+		this.studentId = studentId;
+		this.studentName = studentName;
+	}
+	
+	public void addSubject(String subjectName, int score) {
+		Subject subject = new Subject();
+		subject.setSubjectName(subjectName);
+		subject.setScore(score);
+		subjectList.add(subject);
+	}
+	
+	public String showStudentInfo() {
+		System.out.println("학생 " + studentName + "의 " + subjectName + " 과목 성적은 " + score + " 입니다.");
+	}
+}

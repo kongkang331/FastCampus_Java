@@ -1,0 +1,9 @@
+package ch24;
+
+public class Student {
+
+	String studentName;
+	int studentNumber;
+	
+	
+}
