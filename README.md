@@ -1,1 +1,1 @@
-# FastCampus_Java_Spring
+# FastCampus_Java
