@@ -1,0 +1,16 @@
+package ch10;
+
+public class BirthDay {
+
+	private int day;
+	private int month;
+	private int year;
+	
+	public  int getDay() {
+		return day;
+	}
+	
+	public void setDay(int day) {
+		this.day = day;
+	}
+}
