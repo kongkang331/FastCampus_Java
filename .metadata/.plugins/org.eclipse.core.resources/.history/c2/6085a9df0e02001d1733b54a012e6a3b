@@ -1,7 +1,6 @@
 package ch16;
 
 // 객체가 생성될 때 초기화 작업은 생성자에서 한다 == 여기서 한다! 
-// ch17 == serialNum을 private로 변경 선언 후 test
 public class Employee {
 
 //	public static int serialNum = 1000;
@@ -16,12 +15,6 @@ public class Employee {
 		employeeId = serialNum;
 	}
 	
-
-	public static int getSerialNum() {
-		return serialNum;
-	}
-
-
 	public int getEmployeeId() {
 		return employeeId;
 	}
