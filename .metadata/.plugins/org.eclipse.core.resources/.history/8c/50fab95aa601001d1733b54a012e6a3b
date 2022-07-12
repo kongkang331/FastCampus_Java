@@ -1,0 +1,15 @@
+package ch08;
+
+// 과제 풀이 
+public class Order {
+
+	public int orderNumber;
+	public String phoneNumber;
+	public String address;
+	public int date;
+	public int time;
+	public int price;
+	public int menuNumber;
+	
+	public String showOrderInfo() {}
+}

@@ -1,0 +1,9 @@
+package ch01;
+
+public class Student {
+	// 자료형 & 멤버 변수
+	int studentNumber; 
+	String studentName;
+	String majorName;
+	int grade;
+}
