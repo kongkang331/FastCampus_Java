@@ -1,6 +1,6 @@
-package ch03;
+package ch06;
 
-// Customer class == VIPCustomer & GoldCustomer class들의 상위 클래스 (다형성 배우는 ch06에서 GoldCustomer 등장) 
+// Customer class == VIPCustomer & GoldCustomer class들의 상위 클래 
 public class Customer {
 
 	// private는 상속받는 하위 클래스에서도 사용 못함 -> protected를 사용하면 해결! (외부 접근 차단 / 하위 클래스는 허용)
