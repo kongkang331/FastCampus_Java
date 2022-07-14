@@ -200,3 +200,6 @@ Binding(COMMAND+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2022-07-14 11:01:11.010
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
