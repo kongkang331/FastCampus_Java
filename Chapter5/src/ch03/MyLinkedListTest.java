@@ -16,7 +16,7 @@ public class MyLinkedListTest {
 		list.removeElement(1);
 		list.printAll();
 		
-		list.insertElement(0, "A - 1");
+		list.insertElement(0, "A-1");
 		list.printAll();
 		System.out.println(list.getSize());
 		
