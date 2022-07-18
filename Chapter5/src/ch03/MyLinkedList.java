@@ -129,8 +129,8 @@ public class MyLinkedList {
 			if (temp != null) {
 				System.out.print("->");
 			}
-			System.out.println("");
 		}
+		System.out.println("");
 	}
 	
 	public boolean isEmpty() {
