@@ -2,16 +2,19 @@ package ch16.gameLevel;
 
 public abstract class PlayerLevel {
 
-	abstract String run();
-	abstract String jump();
-	abstract String turn();
-	abstract String showLevelMessage();
+	public abstract void run();
+	public abstract void jump();
+	public abstract void turn();
+	public abstract void showLevelMessage();
 	
-	int go(int count) {
+	final public void go(int count) {
+		run();
 		
+		for (int i = 0 ; i < count ; i++) {
+			jump();
+		}
 		
-		
-		return count;
+		turn();
 	}
 	
 }
