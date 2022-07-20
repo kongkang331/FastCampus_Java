@@ -1,0 +1,1242 @@
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:04:59 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINEST: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINER: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+FINE: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+CONFIG: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+INFO: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+WARNING: test
+7월 20, 2022 6:06:11 오후 ch11.MyLogger log
+SEVERE: test
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:06 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:35 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:44:45 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:44:46 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: Name must not be null
+7월 20, 2022 10:45:02 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+7월 20, 2022 10:45:02 오후 ch11.MyLogger fine
+FINE: begin getStudentName()
