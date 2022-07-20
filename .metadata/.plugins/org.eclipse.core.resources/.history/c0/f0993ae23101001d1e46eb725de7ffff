@@ -1,7 +1,0 @@
-package ch01;
-
-public class Student {
-	// 멤버 변수
-	int studentNumber; 
-	String studentName;
-}

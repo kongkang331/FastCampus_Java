@@ -1,9 +1,0 @@
-package ch24;
-
-public class Student {
-
-	int studentId;
-	String studentName;
-	
-	
-}

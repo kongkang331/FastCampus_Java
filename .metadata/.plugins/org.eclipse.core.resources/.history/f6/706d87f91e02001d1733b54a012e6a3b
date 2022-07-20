@@ -1,9 +1,0 @@
-package ch20;
-
-public class ArrayTeset {
-
-	public static void main(String[] args) {
-		
-	}
-	
-}
