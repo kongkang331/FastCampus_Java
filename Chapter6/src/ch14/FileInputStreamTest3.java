@@ -13,12 +13,14 @@ public class FileInputStreamTest3 {
 			
 			byte[] bs = new byte[10];
 			
-			while ( (i = fis.read(bs)) != -1 ) {
-				for (int ch : bs) {
-					System.out.print((char)ch);
+			while ((i = fis.read(bs)) != -1) {
+				
+				for (int j = 0 ; j < i ; j++) {
+					System.out.print((char)bs[j]);
 				}
 				
 				System.out.println(" : " + i + " 바이트 읽음");
+				
 			}
 			
 		} catch (IOException e) {
